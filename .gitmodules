@@ -1,0 +1,4 @@
+[submodule "vendor/tensorflow"]
+	path = vendor/tensorflow
+	url = https://github.com/tensorflow/tensorflow.git
+	branch = master
